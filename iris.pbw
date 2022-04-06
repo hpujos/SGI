@@ -1,0 +1,10 @@
+Save Format v3.0(19990112)
+@begin Unchecked
+@end;
+@begin Targets
+ 0 "..\\Alarmas\\alarmas_stocks.pbt";
+ 1 "..\\ImportExportData\\importexportdata.pbt";
+ 2 "iris.pbt";
+@end;
+DefaultTarget "iris.pbt";
+DefaultRemoteTarget "iris.pbt";
